@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Programowanie-interf-web-lab3/static/css/main.d5fc6d1d.chunk.css",
+    "main.js": "/Programowanie-interf-web-lab3/static/js/main.10210280.chunk.js",
+    "main.js.map": "/Programowanie-interf-web-lab3/static/js/main.10210280.chunk.js.map",
+    "runtime-main.js": "/Programowanie-interf-web-lab3/static/js/runtime-main.0270488d.js",
+    "runtime-main.js.map": "/Programowanie-interf-web-lab3/static/js/runtime-main.0270488d.js.map",
+    "static/js/2.92352e5e.chunk.js": "/Programowanie-interf-web-lab3/static/js/2.92352e5e.chunk.js",
+    "static/js/2.92352e5e.chunk.js.map": "/Programowanie-interf-web-lab3/static/js/2.92352e5e.chunk.js.map",
+    "static/js/3.8dbdea5a.chunk.js": "/Programowanie-interf-web-lab3/static/js/3.8dbdea5a.chunk.js",
+    "static/js/3.8dbdea5a.chunk.js.map": "/Programowanie-interf-web-lab3/static/js/3.8dbdea5a.chunk.js.map",
+    "index.html": "/Programowanie-interf-web-lab3/index.html",
+    "static/css/main.d5fc6d1d.chunk.css.map": "/Programowanie-interf-web-lab3/static/css/main.d5fc6d1d.chunk.css.map",
+    "static/js/2.92352e5e.chunk.js.LICENSE.txt": "/Programowanie-interf-web-lab3/static/js/2.92352e5e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0270488d.js",
+    "static/js/2.92352e5e.chunk.js",
+    "static/css/main.d5fc6d1d.chunk.css",
+    "static/js/main.10210280.chunk.js"
+  ]
+}
